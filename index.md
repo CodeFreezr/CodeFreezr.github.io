@@ -1,4 +1,4 @@
-## Welcome to the this CodeFreeze.
+## Welcome to the this CodeFreeze by codefreezr 2017
 
 You can use the [editor on GitHub](https://github.com/CodeFreezr/codefreezr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
